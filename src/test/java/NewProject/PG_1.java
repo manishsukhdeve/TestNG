@@ -31,7 +31,8 @@ public class PG_1 {
 		
 //		System.out.println(driver.getPageSource());
 		
-		driver.close();
+//		driver.close();
+		driver.quit();
 		
 	}
 
